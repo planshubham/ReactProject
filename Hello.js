@@ -39,6 +39,7 @@ class Hello extends Component {
         return (
             <div>
   <h1> i am in main</h1>
+<h2>hii</h2>
             </div>
         );
     }
