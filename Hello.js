@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
@@ -50,3 +51,8 @@ Hello.propTypes = {
 };
 
 export default Hello;
+=======
+console.log("Hii");
+debugger;
+<h1>hii</h1>
+>>>>>>> PDPLCP
